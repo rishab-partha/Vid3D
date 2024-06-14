@@ -1,0 +1,17 @@
+torch
+diffusers
+einops
+kiui
+numpy
+omegaconf
+pillow
+rembg
+torchvision
+tqdm
+mediapy
+lightning
+kornia
+open-clip-torch
+xformers==0.0.25.post1
+diff_gaussian_rasterization @ git+https://github.com/graphdeco-inria/diff-gaussian-rasterization.git@73917be7cfd1694e1e61adfa803981925494be5e
+plyfile
