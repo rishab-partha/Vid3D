@@ -155,3 +155,40 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+
+.video-table-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+.video-description {
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+}
+
+
+.video-container video {
+display: inline-block;
+height: auto;
+margin: 0 auto;
+position: relative;
+}
+
+.video-container-table {
+width: 80%;
+}
