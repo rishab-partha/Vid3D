@@ -3,9 +3,9 @@ Rishab Parthasarathy<sup>1</sup>, Zachary Ankner<sup>1,2</sup>, Aaron Gokaslan<s
 
 <sup>1</sup>Massachusetts Institute of Technology, <sup>2</sup>Databricks Mosaic Research, <sup>3</sup>Cornell University
 
-This repository contains the official implementation of [Vid3D: Synthesis of Dynamic 3D Scenes using 2D Video Diffusion](https://arxiv.org/abs/2406.). 
+This repository contains the official implementation of [Vid3D: Synthesis of Dynamic 3D Scenes using 2D Video Diffusion](https://arxiv.org/abs/2406.11196). 
 
-### [arXiv](https://arxiv.org/abs/2406.) | [Project Page](https://rishab-partha.github.io/Vid3D)
+### [arXiv](https://arxiv.org/abs/2406.11196) | [Project Page](https://rishab-partha.github.io/Vid3D)
 
 ## Abstract
 
@@ -83,7 +83,7 @@ If you found our work useful, please consider citing us at
 @article{parthasarathy2024vid3d,
   author    = {Rishab Parthasarathy and Zachary Ankner and Aaron Gokaslan},
   title     = {Vid3D: Synthesis of Dynamic 3D Scenes using 2D Video Diffusion},
-  journal   = {arXiv preprint arXiv:2406.},
+  journal   = {arXiv preprint arXiv:2406.11196},
   year      = {2024}
 }
 ```
